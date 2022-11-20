@@ -20,4 +20,4 @@
 - [ ] Форма регистрации 
 
 * App screenshot
-![App screenshot](/assets/animation.gif.mp4)
+![App screenshot](/animation.gif.mp4)
