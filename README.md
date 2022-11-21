@@ -18,6 +18,8 @@
 
 Что предстоит сделать:
 - [ ] Форма регистрации 
+- [ ] Deploy expo
+- [ ] Deploy google play
 
 * App screenshot
-![App screenshot](/animation.gif.mp4)
+![App screenshot](/assets/screen.jpg)
